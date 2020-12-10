@@ -1,5 +1,4 @@
 ### Hi there, I'm Muksin 👋
-
 ## I'm a Developer and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!

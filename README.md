@@ -24,6 +24,6 @@
 <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" />
 <img align="left" alt="JavaScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
-<img align="left" alt="C#" width="26px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" />
+<img align="left" alt="C#" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Kali Linux" width="26px" src="https://www.freepngimg.com/thumb/android/68988-kali-android-linux-free-clipart-hq.png" />

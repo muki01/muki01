@@ -1,4 +1,4 @@
-### Hi there. My name is Muksin. I'm a Developer and Teacher!! 👋
+### Hi there. My name is Muksin. I'm a Developer and Student!! 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

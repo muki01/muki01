@@ -33,6 +33,6 @@
 </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/muki01/count.svg" />
+  <img src="https://counter8.optistats.ovh/private/freecounterstat.php?c=4gphmt8p5c76dc7sc215qhn623lajpxw">
 </p>
 

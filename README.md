@@ -1,4 +1,4 @@
-# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif). My name is Muksin. I'm a Developer and Student!
+# Hi there ![Gif](https://github.com/muki01/muki01/assets/75759731/cd3ab534-ea43-4a0b-925a-97a6dbdee307). My name is Muksin. I'm a Developer and Student!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

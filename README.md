@@ -24,8 +24,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=muki01&theme=react&show_icons=true&hide_border=true&count_private=true" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=muki01&theme=react&show_icons=true&hide_border=true&layout=compact" />
+  <img width=50% height=200 src="https://github-readme-stats.vercel.app/api?username=muki01&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img width=40% height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=muki01&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">

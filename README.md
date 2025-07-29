@@ -28,8 +28,16 @@
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=muki01&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
-<div align="center">
+<h2 align="center">⭐ Sponsors ⭐</h2>
+<br>
+<div align=center>
+    <a href="https://www.pcbway.com/">
+        <img width=70px src="https://github.com/user-attachments/assets/793d8b14-11d8-4dde-9778-d24fd80c78ea"/>
+    </a>
+</div>
+
+<!--<div align="center">
   <h2 align="center">💛 Visitor count 💛</h2>
   <img src="https://profile-counter.glitch.me/muki01/count.svg" />
-</div>
+</div>-->
 

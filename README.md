@@ -4,13 +4,13 @@
 
 <div align="center">
   
-🌱 I’m currently learning everything 🤣
+💻 Passionate about software development, electronics, and open source.<br>
 
-👯 I’m looking to collaborate with other content creators
+🌱 Always learning, building, and exploring new technologies.<br>
 
-🥅 Goals: Contribute more to Open Source projects
+🤝 Open to collaborations and exciting side projects.<br>
 
-⚡ Fun fact: I like to do electronics
+🎯 Goal: Contribute actively to impactful open-source communities.<br>
 
 </div>
 

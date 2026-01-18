@@ -24,8 +24,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=52% src="https://github-readme-stats.vercel.app/api?username=muki01&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=muki01&theme=react&show_icons=true&hide_border=true&layout=compact" />
+  <img width=52% src="https://github-readme-stats-fast.vercel.app/api?username=muki01&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img width=40% src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=muki01&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <h2 align="center">⭐ Sponsors ⭐</h2>

@@ -32,7 +32,7 @@
 <br>
 <div align=center>
     <a href="https://pcbway.com/g/SD5aQu">
-        <img width=70px alt="pcbway" src="https://github.com/user-attachments/assets/0714485b-2efd-46dc-add9-fc422277d05c"/>
+        <img width=70px alt="pcbway" src="https://github.com/user-attachments/assets/844a09eb-6025-4f26-98de-4a44937da2f1"/>
     </a>
 </div>
 

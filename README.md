@@ -31,8 +31,8 @@
 <h2 align="center">⭐ Sponsors ⭐</h2>
 <br>
 <div align=center>
-    <a href="https://www.pcbway.com/">
-        <img width=70px src="https://github.com/user-attachments/assets/793d8b14-11d8-4dde-9778-d24fd80c78ea"/>
+    <a href="https://pcbway.com/g/SD5aQu">
+        <img width=70px alt="pcbway" src="https://github.com/user-attachments/assets/0714485b-2efd-46dc-add9-fc422277d05c"/>
     </a>
 </div>
 
